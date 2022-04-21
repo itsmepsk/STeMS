@@ -1,0 +1,50 @@
+{
+    "stations_general"                  :   {
+        "t1.station_code"               :   "'Station Code'",
+        "t1.station_name"               :   "'Station Name'",
+        "t2.date_of_commission"         :   "'Date Of Commission'",
+        "t2.class_of_station"           :   "'Class of Station'",
+        "t2.type_of_section"            :   "'Type of Section'",
+        "t2.electrified"                :   "'Electrified'",
+        "t2.km_number"                  :   "'KM Number'",
+        "t2.no_of_running_lines"        :   "'Number of Running Lines'",
+        "t2.no_of_platforms"            :   "'Number of Platforms'",
+        "t2.no_of_sidings"              :   "'Number of Sidings'",
+        "t2.auto_phone_number"          :   "'Auto Phone Number'",
+        "t2.cug_number"                 :   "'CUG Number'",
+        "t2.bsnl_number"                :   "'BSNL Number'"
+    },
+    "stations_signal_basic"             :   {
+        "standard_of_interlocking"      :   "'Standard of Interlocking'",
+        "type_of_interlocking"          :   "'Type of Interlocking'",
+        "no_of_routes"                  :   "'Number of Routes'",
+        "train_detection"               :   "'Train Detection'"
+    },
+    "stations_track_circuits"           :   {
+        "no_of_track_circuits"          :   "'Number of Track Circuits'",
+        "no_of_glued_joints"            :   "'Number of Glued Joints'"
+    },
+    "stations_documents_available"      :   {
+        "approved_esp"                  :   "'Approved ESP'",
+        "latest_toc"                    :   "'Latest TOC'",
+        "fat_tested_toc"                :   "'FAT Tested TOC'",
+        "sat_tested_toc"                :   "'SAT Tested TOC'",
+        "fat_certificate"               :   "'FAT Certificate'",
+        "sat_certificate"               :   "'SAT Certificate'",
+        "tsaa"                          :   "'TSAA'",
+        "square_sheet"                  :   "'SquareSheet'",
+        "approved_floor_plan"           :   "'Approved Floor Plan'",
+        "datalogger_validation_report"  :   "'Datalogger Validation Report'",
+        "crs_sanctions"                 :   "'CRS Sanctions'",
+        "crs_dispensations"             :   "'CRS Dispensations'",
+        "swrd"                          :   "'SWRD'",
+        "cable_corage_plan"             :   "'Cable Corage Plan'",
+        "cable_route_plan"              :   "'Cable Route Diagram'",
+        "track_bonding_diagram"         :   "'Track Bonding Diargam'"
+    },
+    "stations_points"                   :   {
+        "no_of_electrical_point_machines"   :   "'Number of Electrical Point Machines'",
+        "no_of_mechanical_point_machines"   :   "'Number of Mechanical Point Machines'"
+    }
+    
+}

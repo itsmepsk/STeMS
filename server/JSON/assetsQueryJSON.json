@@ -1,0 +1,13 @@
+{
+
+    "points": {
+        "number"            :       "'Point Number'",
+        "type_of_point"     :       "'Type of Point'",
+        "active"            :       "'Is Point Active'"
+    },
+    "tracks": {
+        "track_circuit_number"  :   "'Track Circuit Number'",
+        "active"                :   "'Is Track Circuit Active'"
+    }
+
+}
