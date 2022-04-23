@@ -192,7 +192,7 @@ class ViewStation extends Component {
                     <Grid item xs={12} md={4}>
                         <Grid container direction="column" spacing={3} justify="center">
                             <StationTabularData id="signalBasic" heading="Signal Basic" xs="12" md="" data={this.stationSignalBasic}/>
-                            <StationTabularData id="trackCircuits" heading="Track Circuits" link={"../list/points/"+station_id} xs="12" md="" data={this.stationTrackCircuit}/>
+                            <StationTabularData id="trackCircuits" heading="Track Circuits" link={"../list/tracks/"+station_id} xs="12" md="" data={this.stationTrackCircuit}/>
                             <StationTabularData id="points" heading="Points" link={"../list/points/"+station_id} xs="12" md="" data={this.stationPoints}/>
                         </Grid>
                     </Grid>

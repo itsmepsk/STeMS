@@ -140,7 +140,7 @@ class AssetList extends Component {
                             <h3>List of {list.get(item)}</h3>
                         </Paper>
                     </Grid>
-                    <AssetTabularData id="generalDetails" heading="General Details" xs="12" md="4" data={data}/>
+                    <AssetTabularData id="generalDetails" heading="" xs="12" md="4" data={data}/>
                 </Grid>
             </div>
         )
